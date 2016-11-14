@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/css/food.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/index.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/swiper.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/food.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/jquery-1.12.0.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/swiper.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/data.json" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
